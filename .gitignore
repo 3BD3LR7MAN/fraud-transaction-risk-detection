@@ -1,0 +1,20 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Raw benchmark files and partial downloads
+/data/raw/*.csv
+/data/raw/*.arff
+/data/raw/*.csv.parts/
+/data/raw/*.arff.parts/
+*.tmp
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
