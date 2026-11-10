@@ -6,7 +6,7 @@ A reproducible educational machine-learning project that ranks suspicious card t
 
 ## Demo
 
-[Watch the 5-second project demo](media/fraud-risk-demo.mp4). It summarizes the dataset, held-out test results, and human-review safeguard. The animated interface is illustrative and does not show live or customer transaction data.
+[Watch the project demo video](https://drive.google.com/file/d/14WGUcBcR8Zp98CoPYVc7bVwhlrA1S-PH/view?usp=sharing).
 
 ## Results at a glance
 
