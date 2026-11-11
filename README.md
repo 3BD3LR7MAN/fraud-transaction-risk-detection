@@ -6,7 +6,11 @@ A reproducible educational machine-learning project that ranks suspicious card t
 
 ## Demo
 
-[Watch the project demo video](https://drive.google.com/file/d/14WGUcBcR8Zp98CoPYVc7bVwhlrA1S-PH/view?usp=sharing).
+[Watch the narrated project demo on Google Drive](https://drive.google.com/file/d/14WGUcBcR8Zp98CoPYVc7bVwhlrA1S-PH/view?usp=sharing)
+
+[Open the short GitHub preview](media/fraud-risk-demo.mp4)
+
+The narrated demo covers the imbalanced dataset, chronological evaluation, threshold selection, held-out results, and the human-review safeguard. The GitHub preview is a short visual summary.
 
 ## Results at a glance
 
