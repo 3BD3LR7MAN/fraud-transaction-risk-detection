@@ -109,7 +109,3 @@ Then choose an operating point with finance and operations, subject to analyst c
 - This demonstration does not evaluate fairness, customer outcomes, analyst capacity, recovery rates, or real financial costs.
 
 For details, see the [model card](docs/model-card.md), [dataset card](docs/dataset-card.md), and [evaluation report](reports/Evaluation_Report_EN.md).
-
-## Licensing
-
-No software license is included yet. Add a license you have the right to grant before inviting reuse. The third-party dataset has separate terms; this repository does not grant rights to redistribute it.
